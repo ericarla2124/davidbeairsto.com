@@ -696,6 +696,10 @@ header .scroll a span {
   padding: 0;
 }
 
+#publicspeaking .inner ul::before {
+  display: none;
+}
+
 #publicspeaking .inner ul li {
   list-style: none;
   text-align: center;
